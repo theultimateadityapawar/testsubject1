@@ -23,7 +23,7 @@ routes = {
     "W2": "AHMEDABAD",
     "W3": "SURAT",
     "W4": "JAIPUR"
-}
+    }
 if code in routes:
     print("Bus is going to", routes[code])
     print("Remaining time:", remaining_time)
